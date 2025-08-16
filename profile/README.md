@@ -12,14 +12,14 @@
 
 ## ✨ What is UpCent?
 
-**UpCent** is a **Ledger mini-app** that automates crypto investing through **round-up investing**. When you make a purchase, UpCent **rounds up to the next dollar** and automatically invests the difference in ETH or USDC through carefully selected **liquidity pools**, continuously **optimizing allocations** to maximize returns using **Flare's FDC**. We use **Coinbase Onramp** to seamlessly convert your fiat to crypto for investment.
+**UpCent** is a **Ledger mini-app** that automates crypto investing through **round-up investing**. When you make a purchase, UpCent **rounds up to the next dollar** and automatically invests the difference in ETH or USDC through carefully selected **liquidity pools**. The app continuously **monitors pool performance** and sends you **notifications on your Ledger** when better investment opportunities are available, allowing you to **approve or reject** pool reallocations.
 
 ---
 
 ## 💸 Start Investing Automatically
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=💰+Round+up+to+next+dollar;🔄+Auto+invest+the+difference;🔐+Full+Ledger+security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=💰+Round+up+to+next+dollar;🔄+Get+notified+of+better+pools;🔐+Approve+changes+on+Ledger" alt="Typing SVG" />
 </p>
 
 [➡️ Start Investing](https://upcent-fi.vercel.app/)
@@ -28,9 +28,9 @@
 
 ## 🚀 Why UpCent?
 
-| 🪙 Round-Up Investing | 🔄 Auto-Optimization | 🔐 Ledger Security |
+| 🪙 Round-Up Investing | 🔄 Smart Notifications | 🔐 Ledger Security |
 |------------------------|----------------------|-------------------|
-| **Round up purchases** to the next dollar and automatically invest the difference in ETH or USDC. | Continuously monitor and **optimize pool allocations** for maximum returns. | **Full Ledger wallet integration** ensures you maintain complete control and security. |
+| **Round up purchases** to the next dollar and automatically invest the difference in ETH or USDC. | Get **notifications on your Ledger** when better pool opportunities arise and choose to approve or reject changes. | **Full Ledger wallet integration** ensures you maintain complete control and security over all decisions. |
 
 ---
 
@@ -38,7 +38,7 @@
 
 <details>
   <summary>🚀 What is UpCent?</summary>
-  <p>UpCent is a <strong>Ledger mini-app</strong> that automates crypto investing by converting spare change to ETH or USDC and optimizing liquidity pool allocations.</p>
+  <p>UpCent is a <strong>Ledger mini-app</strong> that automates crypto investing by converting spare change to ETH or USDC and monitoring liquidity pool performance.</p>
 </details>
 
 <details>
@@ -47,13 +47,13 @@
 </details>
 
 <details>
-  <summary>🔄 What is automated optimization?</summary>
-  <p>UpCent continuously monitors pool performance and <strong>automatically reallocates funds</strong> when more profitable options become available.</p>
+  <summary>🔄 How does pool optimization work?</summary>
+  <p>UpCent continuously monitors pool performance and sends you <strong>notifications on your Ledger</strong> when better investment opportunities become available. You can then <strong>approve or reject</strong> the suggested pool reallocation.</p>
 </details>
 
 <details>
   <summary>🔐 How secure is it?</summary>
-  <p><strong>100% secure.</strong> You maintain full control through your <strong>Ledger wallet</strong> and receive notifications for all transactions.</p>
+  <p><strong>100% secure.</strong> You maintain full control through your <strong>Ledger wallet</strong> and must approve all pool changes. You receive notifications for all transactions and decisions.</p>
 </details>
 
 ➡️ [See More FAQs](https://upcent-fi.vercel.app/#faq)
@@ -62,7 +62,7 @@
 
 ## 🧬 Built With Flare
 
-UpCent leverages **Flare's FDC (Flare Data Connector)** for intelligent liquidity pool selection and automated optimization strategies.
+UpCent leverages **Flare's FDC (Flare Data Connector)** for intelligent liquidity pool monitoring and performance analysis.
 
 [🔍 Learn more about Flare](https://flare.network)
 
@@ -72,9 +72,9 @@ UpCent leverages **Flare's FDC (Flare Data Connector)** for intelligent liquidit
 
 - 🔐 **Ledger Mini-App Integration**
 - 🧠 **Flare FDC (Data Connector)**
+- 📊 **Smart Pool Monitoring**
 - 🏦 **Coinbase Onramp (Fiat-to-Crypto)**
-- 📊 **Liquidity Pool Management**
-- 🔔 **Real-time Notifications**
+- 🔔 **Ledger Notifications & Approvals**
 
 ---
 
