@@ -85,7 +85,7 @@ UpCent leverages **Flare's FDC (Flare Data Connector)** for intelligent liquidit
 </p>
 
 <p align="center">
-  <strong>UpCent</strong> is proudly built as a <a href="https://www.ledger.com/"><strong>Ledger mini-app</strong></a>, leverages <a href="https://flare.network/"><strong>Flare's FDC</strong></a> for intelligent investing, and uses <a href="https://pyusd.com/"><strong>pyUSD</strong></a> for seamless fiat-to-crypto conversion.
+  <strong>UpCent</strong> is proudly built as a <a href="https://www.ledger.com/"><strong>Ledger mini-app</strong></a>, leverages <a href="https://flare.network/"><strong>Flare's FDC</strong></a> for intelligent investing, and uses <a href="https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd"><strong>pyUSD</strong></a> for seamless fiat-to-crypto conversion.
 </p>
 
 <p align="center">
