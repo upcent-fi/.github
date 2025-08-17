@@ -1,6 +1,6 @@
 # 🚀 UpCent — Automated Crypto Investing from Spare Change 💰
 
-> **Automate your crypto investments. Convert spare change to ETH or USDC. Maximize returns with Flare's FDC. Full Ledger integration for security.**
+> **Automate your crypto investments. Convert spare change to USDC on Base. Maximize returns with Flare's FDC. Full Ledger integration for security.**
 
 📄 [View the pitch deck (PDF)](https://upcent-fi.github.io/pitch-deck/)
 
@@ -12,14 +12,14 @@
 
 ## ✨ What is UpCent?
 
-**UpCent** is a **Ledger mini-app** that automates crypto investing through **round-up investing**. When you make a purchase, UpCent **rounds up to the next dollar** and automatically invests the difference in ETH or USDC through carefully selected **liquidity pools**. The app continuously **monitors pool performance** and sends you **notifications on your Ledger** when better investment opportunities are available, allowing you to **approve or reject** pool reallocations.
+**UpCent** is a **Ledger mini-app** that automates crypto investing through **round-up investing**. When you make a purchase, UpCent **rounds up to the next ten** and automatically invests the difference in USDC on Base through carefully selected **liquidity pools**. The app continuously **monitors pool performance** and sends you **notifications on your Ledger** when better investment opportunities are available, allowing you to **approve or reject** pool reallocations.
 
 ---
 
 ## 💸 Start Investing Automatically
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=💰+Round+up+to+next+dollar;🔄+Get+notified+of+better+pools;🔐+Approve+changes+on+Ledger" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=💰+Round+up+to+next+ten;🔄+Get+notified+of+better+pools;🔐+Approve+changes+on+Ledger" alt="Typing SVG" />
 </p>
 
 [➡️ Start Investing](https://upcent-fi.vercel.app/)
@@ -30,7 +30,7 @@
 
 | 🪙 Round-Up Investing | 🔄 Smart Notifications | 🔐 Ledger Security |
 |------------------------|----------------------|-------------------|
-| **Round up purchases** to the next dollar and automatically invest the difference in ETH or USDC. | Get **notifications on your Ledger** when better pool opportunities arise and choose to approve or reject changes. | **Full Ledger wallet integration** ensures you maintain complete control and security over all decisions. |
+| **Round up purchases** to the next ten and automatically invest the difference in USDC on Base. | Get **notifications on your Ledger** when better pool opportunities arise and choose to approve or reject changes. | **Full Ledger wallet integration** ensures you maintain complete control and security over all decisions. |
 
 ---
 
@@ -38,12 +38,12 @@
 
 <details>
   <summary>🚀 What is UpCent?</summary>
-  <p>UpCent is a <strong>Ledger mini-app</strong> that automates crypto investing by converting spare change to ETH or USDC and monitoring liquidity pool performance.</p>
+  <p>UpCent is a <strong>Ledger mini-app</strong> that automates crypto investing by converting spare change to USDC on Base and monitoring liquidity pool performance.</p>
 </details>
 
 <details>
   <summary>💰 How does round-up investing work?</summary>
-  <p>When you make a purchase, UpCent <strong>rounds up to the next dollar</strong> and automatically invests the difference in ETH or USDC. For example, if you spend $23.45, UpCent rounds up to $24.00 and invests the $0.55 difference using <strong>Coinbase Onramp</strong> for seamless fiat-to-crypto conversion.</p>
+  <p>When you make a purchase, UpCent <strong>rounds up to the next ten</strong> and automatically invests the difference in USDC on Base. For example, if you spend $23.45, UpCent rounds up to $30.00 and invests the $6.55 difference using <strong>Coinbase Onramp</strong> for seamless fiat-to-crypto conversion.</p>
 </details>
 
 <details>
@@ -81,7 +81,7 @@ UpCent leverages **Flare's FDC (Flare Data Connector)** for intelligent liquidit
 ## 🤝 Partners & Integrations
 
 <p align="center">
-  <img src="../assets/logo_upcent.jpg" alt="UpCent" height="75" />
+  <img src="../assets/upcent.png" alt="UpCent" height="80" />
 </p>
 
 <p align="center">
