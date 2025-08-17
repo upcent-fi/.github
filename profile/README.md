@@ -1,6 +1,6 @@
 # 🚀 UpCent — Automated Crypto Investing from Spare Change 💰
 
-> **Automate your crypto investments. Convert spare change to USDC on Base. Maximize returns with Flare's FDC. Full Ledger integration for security.**
+> **Automate your crypto investments. Convert spare change to pyUSD on ETH. Maximize returns with Flare's FDC. Full Ledger integration for security.**
 
 📄 [View the pitch deck (PDF)](https://upcent-fi.github.io/pitch-deck/)
 
@@ -12,7 +12,7 @@
 
 ## ✨ What is UpCent?
 
-**UpCent** is a **Ledger mini-app** that automates crypto investing through **round-up investing**. When you make a purchase, UpCent **rounds up to the next ten** and automatically invests the difference in USDC on Base through carefully selected **liquidity pools**. The app continuously **monitors pool performance** and sends you **notifications on your Ledger** when better investment opportunities are available, allowing you to **approve or reject** pool reallocations.
+**UpCent** is a **Ledger mini-app** that automates crypto investing through **round-up investing**. When you make a purchase, UpCent **rounds up to the next ten** and automatically invests the difference in pyUSD on ETH through carefully selected **liquidity pools**. The app continuously **monitors pool performance** and sends you **notifications on your Ledger** when better investment opportunities are available, allowing you to **approve or reject** pool reallocations.
 
 ---
 
@@ -30,7 +30,7 @@
 
 | 🪙 Round-Up Investing | 🔄 Smart Notifications | 🔐 Ledger Security |
 |------------------------|----------------------|-------------------|
-| **Round up purchases** to the next ten and automatically invest the difference in USDC on Base. | Get **notifications on your Ledger** when better pool opportunities arise and choose to approve or reject changes. | **Full Ledger wallet integration** ensures you maintain complete control and security over all decisions. |
+| **Round up purchases** to the next ten and automatically invest the difference in pyUSD on ETH. | Get **notifications on your Ledger** when better pool opportunities arise and choose to approve or reject changes. | **Full Ledger wallet integration** ensures you maintain complete control and security over all decisions. |
 
 ---
 
@@ -38,12 +38,12 @@
 
 <details>
   <summary>🚀 What is UpCent?</summary>
-  <p>UpCent is a <strong>Ledger mini-app</strong> that automates crypto investing by converting spare change to USDC on Base and monitoring liquidity pool performance.</p>
+  <p>UpCent is a <strong>Ledger mini-app</strong> that automates crypto investing by converting spare change to pyUSD on ETH and monitoring liquidity pool performance.</p>
 </details>
 
 <details>
   <summary>💰 How does round-up investing work?</summary>
-  <p>When you make a purchase, UpCent <strong>rounds up to the next ten</strong> and automatically invests the difference in USDC on Base. For example, if you spend $23.45, UpCent rounds up to $30.00 and invests the $6.55 difference using <strong>Coinbase Onramp</strong> for seamless fiat-to-crypto conversion.</p>
+  <p>When you make a purchase, UpCent <strong>rounds up to the next ten</strong> and automatically invests the difference in pyUSD on ETH. For example, if you spend $23.45, UpCent rounds up to $30.00 and invests the $6.55 difference for seamless fiat-to-crypto conversion.</p>
 </details>
 
 <details>
@@ -73,7 +73,7 @@ UpCent leverages **Flare's FDC (Flare Data Connector)** for intelligent liquidit
 - 🔐 **Ledger Mini-App Integration**
 - 🧠 **Flare FDC (Data Connector)**
 - 📊 **Smart Pool Monitoring**
-- 🏦 **Coinbase Onramp (Fiat-to-Crypto)**
+- 💰 **pyUSD Integration**
 - 🔔 **Ledger Notifications & Approvals**
 
 ---
@@ -85,13 +85,13 @@ UpCent leverages **Flare's FDC (Flare Data Connector)** for intelligent liquidit
 </p>
 
 <p align="center">
-  <strong>UpCent</strong> is proudly built as a <a href="https://www.ledger.com/"><strong>Ledger mini-app</strong></a>, leverages <a href="https://flare.network/"><strong>Flare's FDC</strong></a> for intelligent investing, and uses <a href="https://www.coinbase.com/onramp"><strong>Coinbase Onramp</strong></a> for seamless fiat-to-crypto conversion.
+  <strong>UpCent</strong> is proudly built as a <a href="https://www.ledger.com/"><strong>Ledger mini-app</strong></a>, leverages <a href="https://flare.network/"><strong>Flare's FDC</strong></a> for intelligent investing, and uses <a href="https://pyusd.com/"><strong>pyUSD</strong></a> for seamless fiat-to-crypto conversion.
 </p>
 
 <p align="center">
   <img src="../assets/ledger.svg" alt="Ledger" height="50" style="vertical-align:middle; margin: 0 25px; filter: brightness(1.1);" />
   <img src="../assets/flare.png" alt="Flare" height="50" style="vertical-align:middle; margin: 0 25px; filter: contrast(1.1);" />
-  <img src="../assets/coinbase.png" alt="Coinbase" height="29" style="vertical-align:middle; margin: 0 25px; filter: brightness(1.05);" />
+  <img src="../assets/pyusd.png" alt="pyUSD" height="50" style="vertical-align:middle; margin: 0 25px; filter: brightness(1.05);" />
 </p>
 
 ---
@@ -100,6 +100,6 @@ UpCent leverages **Flare's FDC (Flare Data Connector)** for intelligent liquidit
 
 <p align="center">
   <img src="https://img.shields.io/badge/ledger-mini--app-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/coinbase-onramp-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/flare-data--connector-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pyusd-stablecoin-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/flare-data--connector-orange?style=for-the-badge" />
 </p>
